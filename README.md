@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Srishti Sharma
 
-🎓Final Year B.Tech CSE Student | 💡 Machine Learning Enthusiast 
+🎓 Final Year B.Tech CSE Student | 💡 Machine Learning Enthusiast  
 
 ---
 
@@ -8,9 +8,9 @@
 
 I'm passionate about crafting intelligent solutions that blend AI, machine learning, and real-world utility. Whether it's smart wearables or stock forecasting, I thrive on impactful, hands-on problem solving.
 
-- 🔭 Currently working on **AI & IoT**
-- 🌱 Learning: **Deep Learning, System Design**
-- 💬 Ask me about: Python, ML projects
+- 🔭 Currently working on **AI & IoT**  
+- 🌱 Learning: **Deep Learning, System Design**  
+- 💬 Ask me about: Python, ML projects  
 
 ---
 
@@ -30,42 +30,44 @@ I'm passionate about crafting intelligent solutions that blend AI, machine learn
 
 ## 🛠️ Featured Projects
 
-### 🔍 [ Social Media Sentiment Analysis]
-Check out my [GitHub Profile](https://github.com/Sriishti-22/Sentiment-Analysis)
->  ML-based Sentiment Analysis on 74,000 tweets using TF-IDF Word2Vec for feature engineering.
+### 🔍 [Social Media Sentiment Analysis](https://github.com/Sriishti-22/Sentiment-Analysis)  
+> ML-based sentiment analysis on **74,000 tweets** using **TF-IDF + Word2Vec** for feature engineering.
 
-### 📈 [Pizza Sales Analysis Dashboard]
-Check out my [GitHub Profile](https://github.com/Sriishti-22/Pizza-Stats).
-> Executed complex SQL queries to extract and analyze over 10,000 rows of sales data.
+### 📈 [Pizza Sales Analysis Dashboard](https://github.com/Sriishti-22/Pizza-Stats)  
+> Executed complex SQL queries to analyze **10,000+ rows of sales data** and built an interactive **Power BI dashboard**.
 
-### 🩺 [Uttarakhand-Tourism]
-Check out my [GitHub Profile](https://github.com/Sriishti-22/Uttarakhand-Tourism)
->A responsive and interactive tourism website showcasing the natural beauty, culture, and travel destinations of Uttarakhand, India.
+### 🩺 [Uttarakhand Tourism Website](https://github.com/Sriishti-22/Uttarakhand-Tourism)  
+> A responsive tourism website showcasing the beauty, culture, and destinations of Uttarakhand, India.
 
 ---
-Profile on Coding Platforms:
-<br></br>
+
+## 🏆 Coding Profiles
+
 <p align="center">
-<a href="https://leetcode.com/u/22_srishti/" rel="nofollow">Leetcode</a>🏆
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.interviewbit.com/profile/mazhar_mik" rel="nofollow">InterViewBit</a>🏆 -->
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerearth.com/@mkhan31995" rel="nofollow">Hackerearth</a>🏆 -->
-      </p>
-<hr></hr>
+<a href="https://leetcode.com/u/22_srishti/" rel="nofollow">LeetCode</a> 🏆
+</p>
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Srishti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sriishti-22&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sriishti-22&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriishti-22&layout=compact&theme=radical)
+
+</div>
+
+---
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn]( https://www.linkedin.com/in/srishti-sharma-9aa8a6291/)  
-- 📧 Email: 22shristi@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/srishti-sharma-9aa8a6291/)  
+- 📧 **22shristi@gmail.com**
 
 ---
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
-
-
-                                                      
-
-
-
